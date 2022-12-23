@@ -4,6 +4,9 @@
 - **i**n lunix   theres no administration there is root
 - hardware its the mather bord , RAM ……
 - software ; oeration syseteme(windows , linux, mac)
+- **debian** its easy to install and configure then centos because debian you can find implement of information its also un open source  
+
+**centos**  - replica of redhat and its take to muche time to updat 10 years debian about 2 years
 
 **virtual machine**
 
