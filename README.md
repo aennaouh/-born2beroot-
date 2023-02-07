@@ -1,4 +1,4 @@
-# -born2beroot-
+# born2beroot
 **globle information** 
 
 - **i**n lunix   theres no administration there is root
